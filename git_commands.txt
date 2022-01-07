@@ -14,3 +14,7 @@ git remote add origin git@github.com:AlibekMamytov96/python16.git - связыв
 
 git clone - просто клон проекта из удаленного сервера
 
+
+asdasdafqefqp
+fwefwfw
+fwefwfwf
